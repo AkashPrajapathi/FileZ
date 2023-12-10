@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_vertical_height">56dp</dimen>
+    <dimen name="text_container_height">48dp</dimen>
+    <dimen name="list_vertical_height_padding">72dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+</resources>
